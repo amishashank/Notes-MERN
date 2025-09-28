@@ -295,8 +295,8 @@ curl -X DELETE http://localhost:3000/notes/1
 
 ## 👤 Author
 
-**Your Name** – Fullstack Developer in training
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+**Shashank Pandey** – Fullstack Developer in training
+[GitHub](https://github.com/amishashank) | [LinkedIn](https://linkedin.com/in/amishashank)
 
 ---
 
